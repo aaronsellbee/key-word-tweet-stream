@@ -1,0 +1,20 @@
+{
+  "name": "met-gala-tweet-streamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index",
+    "dev": "nodemon server/index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "got": "^9.6.0",
+    "needle": "^3.0.0",
+    "oauth-1.0a": "^2.2.6",
+    "socket.io": "^4.2.0"
+  }
+}
