@@ -1,0 +1,1 @@
+Tweet stream webapp created by following the twitter developer portal documentation; in order to run the tweet stream you will have to create an OAuth 2.0 bearer token (information can be found here: https://developer.twitter.com/en/docs/authentication/overview and include it in .env!
